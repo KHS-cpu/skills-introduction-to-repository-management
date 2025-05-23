@@ -1,0 +1,8 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @KHS-cpu
+/src/backend/database.py      @KHS-cpu
+/src/backend/routers/auth.py  @KHS-cpu
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @KHS-cpu
+
